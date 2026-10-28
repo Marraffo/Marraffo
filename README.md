@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marraffo
 - 👀 I’m interested in developing new software 
-- 🌱 I’m currently learning data analytics and crypto
+- 🌱 I’m currently developing a platform for small companies (pymes). 
 - 💞️ I’m looking to collaborate on anything with sql server, python
 - 📫 How to reach me: send me an email. 
 - I want to learn, so i will be doing any work for free.
